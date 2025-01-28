@@ -1,0 +1,57 @@
+.navbar-brand{
+  color: rgb(255, 255, 255) !important;
+}
+.nav-link{
+  color: rgb(255, 255, 255) !important;
+}
+.main-btn{
+  background: #23A6F0 !important;
+
+}
+.main-btn-radius{
+  border: solid black 1px !important;
+}
+.bacrasm{
+  background: url(./img/background.png) !important;
+  background-position: center !important;
+  background-repeat: no-repeat !important;
+  background-size: cover !important;
+}
+.mini-box{
+  width: Fill (248px)px;
+  height:  (366px)px;
+  gap: 10px;
+  border-radius: 1px 0px 0px 0px;
+  opacity: 0px;
+  
+background: #FFFFFF;
+
+}
+.block{
+    display: block;
+}
+.header{
+padding: 50px 0px 50px 0px;
+}
+.color-blu{
+background: #A9D6FF;
+}
+.border{
+  border: 1px solid ;
+}
+.icon-mans{
+  background-color: #FFFFFF;
+width: 30px;
+border-radius: 50%;
+  color: #A9D6FF;
+width: 60px;
+height: 60px;
+padding: 15px;
+display: inline-block;
+}
+.text-inline{
+  display: inline;
+}
+.border{
+  border: 2px solid #dedede;
+}
