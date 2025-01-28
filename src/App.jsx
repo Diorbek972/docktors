@@ -7,6 +7,8 @@ import NavbarSection from './components/NavbarSection';
 import NavbarHead from './components/NavbarHead';
 import LeadingMedisine from './components/LeadingMedisine';
 import Leading from './components/Leading';
+import FAQ from './components/FAQ';
+import Pricing from './components/Pricing';
 
 function App() {
 
@@ -19,6 +21,8 @@ function App() {
      </div>
      <LeadingMedisine/>
      <Leading/>
+     <FAQ/>
+     <Pricing/>
     </>
   )
 }
