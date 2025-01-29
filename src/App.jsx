@@ -9,6 +9,7 @@ import LeadingMedisine from './components/LeadingMedisine';
 import Leading from './components/Leading';
 import FAQ from './components/FAQ';
 import Pricing from './components/Pricing';
+import GetTouch from './components/GetTouch';
 
 function App() {
 
@@ -23,6 +24,7 @@ function App() {
      <Leading/>
      <FAQ/>
      <Pricing/>
+    <div className="bacround-black"> <GetTouch /></div>
     </>
   )
 }

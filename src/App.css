@@ -50,11 +50,51 @@ padding: 15px;
 display: inline-block;
 }
 .text-inline{
-  display: inline;
+  display: inline-block;
 }
 .border{
   border: 2px solid #dedede;
 }
 .right-icon{
   font-size: 20px ;
+}
+.border-blue{
+  border: 1px solid #23A6F0;
+}
+.marginner{
+  margin-left: 130px;
+}
+.bacround-color{
+  background: #252B42;
+
+}
+.whith-text{
+  height: 705px;
+}
+.whith-text-2{
+  height: 665px;
+}
+.bacround-black{
+  background: #252B42;
+  height: 257px;
+}
+.text-ortada{
+  margin-top: 60px;
+}
+.input-btn input{
+  width: 386px;
+height: 58px;
+gap: 0px;
+opacity: 0px;
+border-radius: 12px;
+display: inline-block;
+}
+.input-btn  button{
+  width: 117px;
+height: 58px;
+left: 269px;
+gap: 10px;
+opacity: 0px;
+display: inline-block;
+
 }
