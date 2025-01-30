@@ -1,3 +1,5 @@
+import TgBot from "./TgBot";
+
 export default function NavbarHead() {
   return (
     <div className="container">
@@ -13,16 +15,7 @@ export default function NavbarHead() {
        <div className="mini-box rounded-3 p-5">
         <h2>Book Appointment</h2>
       
-        <form action="">
-        <label className="block" id="name">Name</label>
-          <input className="block my-2 py-2 px-3" type="text" id="name" placeholder="Full Name"/> 
-          <label className="block my-2 py-2 px-3" htmlFor="" id="email">Email address</label>
-          <input className="block my-2 py-2 px-3" type="email" id="email" placeholder="example@gmail.com  "/>
-          <label className="block my-2 py-2 px-3" htmlFor="" id="depart">Departement *</label>
-          <input className="block my-2 py-2 px-3" type="text" id="depart" placeholder="Please Select"/>
-          <label className="block my-2 py-2 px-3" htmlFor="" id="time">Time</label>
-          <input className="block my-2 py-2 px-3" type="text" id="time" placeholder="4:00 Available"/>
-        </form>
+        <TgBot/>
        </div>
       </div>
       </div>

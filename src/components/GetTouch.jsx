@@ -1,6 +1,7 @@
 
 
 export default function GetTouch() {
+
   return (
     <section    >
         <div className="container"> 
@@ -11,8 +12,8 @@ export default function GetTouch() {
       small-scale behaviour during the first quarter of the 20th </p>
     </div>
       <div className="w-50 text-inline input-btn mx-auto">
-      <input type="text" placeholder="" aria-label="Recipient's username" aria-describedby="button-addon2"/>
-      <button className="btn btn-primary py-2 px-3" type="button" id="button-addon2">Button</button>
+      <input type="text" placeholder="Your Email" className="text-center" aria-label="Recipient's username"  aria-describedby="button-addon2"/>
+      <button className="btn btn-primary py-2 px-3" type="button" id="button-addon2" >Button</button>
       </div> 
     </div>
     </div>

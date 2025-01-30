@@ -17,16 +17,26 @@ function App() {
 
   return (
     <>
-     <div className="bacrasm">
-     <NavbarSection/>
-     <NavbarHead/>
+      <div className="bacrasm">
+        <NavbarSection />
+        <NavbarHead />
+      </div>
+      <div>
+        <LeadingMedisine />
+      </div>
+      <div>
+        <Leading />
+      </div>
+      <div>
+        <FAQ />
+      </div>
+      <div>
+      <Pricing />
+      </div>
+      <div className="bacround-black"> <GetTouch /></div>
+     <div>
+     <Footer />
      </div>
-     <LeadingMedisine/>
-     <Leading/>
-     <FAQ/>
-     <Pricing/>
-    <div className="bacround-black"> <GetTouch /></div>
-    <Footer/>
     </>
   )
 }

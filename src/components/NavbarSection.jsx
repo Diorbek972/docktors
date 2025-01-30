@@ -7,8 +7,8 @@ import { FaLongArrowAltRight } from "react-icons/fa";
 
 export default function NavbarSection() {
   return (
-    <div>
-      <Navbar expand="lg" className="bg-body-tertiary">
+    <div >
+      <Navbar expand="lg" className="">
       <Container>
         <Navbar.Brand href="#home" className='me-5'>Physionic</Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
