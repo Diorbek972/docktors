@@ -11,7 +11,7 @@ export default function Leading() {
       <p className="text-center text-body-tertiary">Problems trying to resolve the conflict between 
       the two major realms of Classical physics: Newtonian mechanics </p>
       <div className="row my-5">
-        <div className="col-md-4 p-5  border rounded-2">
+        <div className="col-md-4 p-5  border rounded-2 ">
         <div>
         <GiRoundStar className="text-warning me-2"/>
         <GiRoundStar className="text-warning me-2"/>
