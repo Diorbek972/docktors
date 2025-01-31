@@ -46,7 +46,7 @@ export default function TgBot() {
                 <label className="block my-2 py-2 px-3" htmlFor="" id="depart">Departement *</label>
                 <input onChange={(e)=>setTanlash(e.target.value)} className="block my-2 py-2 px-3" type="text" id="depart" placeholder="Please Select" />
                 <label className="block my-2 py-2 px-3" htmlFor="" id="time">Time</label>
-                <input onChange={(e)=>setVaqt(e.target.value)} className="block my-2 py-2 px-3" type="text" id="time" placeholder="4:00 Available" />
+                <input onChange={(e)=>setVaqt(e.target.value)} className="block my-2 py-2 px-3" type="number" id="time" placeholder="4:00 Available" />
                 <button onClick={(e)=>yuborish(e)} className="btn btn-primary w-100 my-3 p-2">Book Appointment</button>
             </form>
         </div>
