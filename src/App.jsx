@@ -11,6 +11,7 @@ import FAQ from './components/FAQ';
 import Pricing from './components/Pricing';
 import GetTouch from './components/GetTouch';
 import Footer from './components/Footer';
+import Exsample from './components/Exsample';
 
 function App() {
 
@@ -21,6 +22,9 @@ function App() {
         <NavbarSection />
         <NavbarHead />
       </div>
+
+      <Exsample/>
+
       <div>
         <LeadingMedisine />
       </div>
