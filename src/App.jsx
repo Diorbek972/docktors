@@ -11,8 +11,6 @@ import FAQ from './components/FAQ';
 import Pricing from './components/Pricing';
 import GetTouch from './components/GetTouch';
 import Footer from './components/Footer';
-import Exsample from './components/Exsample';
-
 function App() {
 
 
@@ -23,7 +21,7 @@ function App() {
         <NavbarHead />
       </div>
 
-      <Exsample/>
+
 
       <div>
         <LeadingMedisine />
@@ -35,12 +33,12 @@ function App() {
         <FAQ />
       </div>
       <div>
-      <Pricing />
+        <Pricing />
       </div>
       <div className="bacround-black"> <GetTouch /></div>
-     <div>
-     <Footer />
-     </div>
+      <div>
+        <Footer />
+      </div>
     </>
   )
 }

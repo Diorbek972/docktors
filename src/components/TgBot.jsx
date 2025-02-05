@@ -40,11 +40,11 @@ export default function TgBot() {
             .then((recponce) => recponce.json())
             .then(rec => {
                 if (rec) {
-                   handleShow()
-                   setemail("")
-                   setname("")
-                   setTanlash("")
-                   setVaqt("")
+                    handleShow()
+                    setemail("")
+                    setname("")
+                    setTanlash("")
+                    setVaqt("")
                 }
             })
     }
@@ -52,7 +52,7 @@ export default function TgBot() {
     return (
         <div>
             <form action="">
-                
+
                 <Modal show={show} onHide={handleClose}>
                     <Modal.Header closeButton>
                         <Modal.Title>malumot ketti</Modal.Title>

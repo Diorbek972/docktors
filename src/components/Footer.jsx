@@ -9,11 +9,11 @@ export default function Footer() {
       <div className="row aligv items-center">
         <div className="col-md-3">
           <h2>Get In Touch</h2>
-          <p className="my-3 ">the quick fox jumps over the 
-          lazy dog</p>
-          <FaFacebook className="footer-icons"/>
-          <CiInstagram className="footer-icons"/>
-          <FaTwitter className="footer-icons"/>
+          <p className="my-3 ">the quick fox jumps over the
+            lazy dog</p>
+          <FaFacebook className="footer-icons" />
+          <CiInstagram className="footer-icons" />
+          <FaTwitter className="footer-icons" />
         </div>
         <div className="col-md-3 text-color">
           <h2>Company info</h2>

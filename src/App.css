@@ -1,120 +1,144 @@
-.navbar-brand{
+.navbar-brand {
   color: rgb(255, 255, 255) !important;
 }
-.nav-link{
+
+.nav-link {
   color: rgb(255, 255, 255) !important;
 }
-.main-btn{
+
+.main-btn {
   background: #23A6F0 !important;
 
 }
-.main-btn-radius{
+
+.main-btn-radius {
   border: solid black 1px !important;
 }
-.bacrasm{
+
+.bacrasm {
   background: url(./assets/img/background.png) !important;
   background-position: center !important;
   background-repeat: no-repeat !important;
   background-size: cover !important;
 }
-.mini-box{
+
+.mini-box {
   width: Fill (248px)px;
-  height:  (366px)px;
+  height: (366px)px;
   gap: 10px;
   border-radius: 1px 0px 0px 0px;
   opacity: 0px;
-  
-background: #FFFFFF;
+
+  background: #FFFFFF;
 
 }
-.block{
-    display: block;
+
+.block {
+  display: block;
 }
-.header{
-padding: 50px 0px 50px 0px;
+
+.header {
+  padding: 50px 0px 50px 0px;
 }
-.color-blu{
-background: #A9D6FF;
+
+.color-blu {
+  background: #A9D6FF;
 }
-.border{
-  border: 1px solid ;
+
+.border {
+  border: 1px solid;
 }
-.icon-mans{
+
+.icon-mans {
   background-color: #FFFFFF;
-width: 30px;
-border-radius: 50%;
+  width: 30px;
+  border-radius: 50%;
   color: #A9D6FF;
-width: 60px;
-height: 60px;
-padding: 15px;
-display: inline-block;
-}
-.text-inline{
+  width: 60px;
+  height: 60px;
+  padding: 15px;
   display: inline-block;
 }
-.border{
-  border: 2px solid #dedede;    
+
+.text-inline {
+  display: inline-block;
 }
-.right-icon{
-  font-size: 20px ;
+
+.border {
+  border: 2px solid #dedede;
 }
-.border-blue{
+
+.right-icon {
+  font-size: 20px;
+}
+
+.border-blue {
   border: 1px solid #23A6F0;
 }
-.marginner{
+
+.marginner {
   margin-left: 130px;
 }
-.bacround-color{
+
+.bacround-color {
   background: #252B42;
 
 }
-.whith-text{
+
+.whith-text {
   height: 705px;
 }
-.whith-text-2{
+
+.whith-text-2 {
   height: 665px;
 }
-.bacround-black{
+
+.bacround-black {
   background: #252B42;
   height: 257px;
 }
-.text-ortada{
+
+.text-ortada {
   margin-top: 60px;
 }
-.input-btn input{
+
+.input-btn input {
   width: 386px;
-height: 58px;
-gap: 0px;
-opacity: 0px;
-border-radius: 12px;
-display: inline-block;
+  height: 58px;
+  gap: 0px;
+  opacity: 0px;
+  border-radius: 12px;
+  display: inline-block;
 }
-.input-btn  button{
+
+.input-btn button {
   width: 117px;
-height: 58px;
-left: 269px;
-gap: 10px;
-opacity: 0px;
-display: inline-block;
+  height: 58px;
+  left: 269px;
+  gap: 10px;
+  opacity: 0px;
+  display: inline-block;
 
 }
-.text-color a{
-inline-size: none;
-color: #737373;
 
-text-decoration: none;
+.text-color a {
+  inline-size: none;
+  color: #737373;
+
+  text-decoration: none;
 }
-.text-color li{
+
+.text-color li {
   list-style: none;
-  
-}
-.footer-icons{
-font-size: 26px;
-top: 0.88px;
-left: 1.5px;
-gap: 5px;
-opacity: 0px;
-color: #23A6F0;
-margin-left: 10px;
+
 }
 
+.footer-icons {
+  font-size: 26px;
+  top: 0.88px;
+  left: 1.5px;
+  gap: 5px;
+  opacity: 0px;
+  color: #23A6F0;
+  margin-left: 10px;
+}
